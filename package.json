@@ -1,0 +1,20 @@
+{
+  "name": "rbxtogit",
+  "version": "1.0.0",
+  "description": "simple module for converting roblox place scripts into a directory on the user's system",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "roblox",
+    "github",
+    "converter"
+  ],
+  "author": "thomaschabot",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  }
+}
