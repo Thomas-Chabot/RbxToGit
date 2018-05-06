@@ -4,13 +4,17 @@
   "description": "simple module for converting roblox place scripts into a directory on the user's system",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
   },
   "keywords": [
     "roblox",
     "github",
     "converter"
   ],
+  "bin": {
+    "rbxtogit": "main.js"
+  },
   "author": "thomaschabot",
   "license": "ISC",
   "dependencies": {

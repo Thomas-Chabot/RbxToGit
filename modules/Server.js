@@ -19,7 +19,7 @@ app.post ("/post", function (req, res) {
 });
 
 app.listen (PORT, ()=>{
-	console.log ("Listening on port 2402");
+	console.log ("App is ready");
 });
 
 module.exports.emitter = evt;
