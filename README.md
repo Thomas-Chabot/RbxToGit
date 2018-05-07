@@ -17,3 +17,6 @@ The easiest way to install the RbxToGit application is through npm. This can be 
 RbxToGit can be run through the `rbxtogit` terminal command. This should be called from within the same directory as scripts should be saved.
 
 The application will then wait for requests from the Studio plugin, after which the Roblox game scripts will be created in your local system.
+
+## Creator
+This project was developed by ThomasChabot on Roblox (https://www.roblox.com/users/284140/profile).
